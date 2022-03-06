@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrancoisVolschenk
 - 👀 I’m interested in all sorts of aspects in computer science.
-- 🌱 I’m currently studying computer science and plan to go up to at least a masters degree
+- 🌱 I’m currently studying computer science and informatics
 - 💞️ I’m looking to collaborate on any fun and useful projects that can help me learn more about writing code
 
 <!---

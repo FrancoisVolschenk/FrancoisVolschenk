@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @FrancoisVolschenk
 - 👀 I’m interested in all sorts of aspects in computer science.
-- 🌱 I’m currently studying computer science and informatics
-- 💞️ I’m looking to collaborate on any fun and useful projects that can help me learn more about writing code
+- 🌱 BSc Computer Science &  Informatics
+- 💻 Studying BSc Honours in IT
+- 💞️ I’m looking to collaborate on any fun and useful projects that can help me learn more about AI, CyberSec, and Advanced Programming Topics
 
 <!---
 FrancoisVolschenk/FrancoisVolschenk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrancoisVolschenk
-- 👀 I’m interested in all sorts of aspects in computer science.
-- 🌱 BSc Computer Science &  Informatics
-- 💻 Studying BSc Honours in IT
+- 👀 I’m interested in CyberSec, Evolutionary Algorithms and artificial life simulation, and any other cool projects.
+- 🌱 BSc Hons in I.T.
+- 💻 Studying Masters In Computer Science in generative AI
 - 💞️ I’m looking to collaborate on any fun and useful projects that can help me learn more about AI, CyberSec, and Advanced Programming Topics
 
 <!---
